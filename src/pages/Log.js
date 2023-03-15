@@ -4,7 +4,7 @@ import BlogNavBar from "../components/blog_navbar";
 
 function Log() {
   useEffect(() => {
-    document.title = "quinn's log (/ω＼)";
+    document.title = "mehedi's log";
   }, []);
 
   return (

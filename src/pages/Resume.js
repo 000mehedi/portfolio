@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 
 function Resume() {
   useEffect(() => {
-    document.title = "meehdi's resume";
+    document.title = "mehedi's resume";
   }, []);
 
   return (
