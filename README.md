@@ -11,5 +11,4 @@ inspired by [tiffany](https://tiffanywang.me/)
 - [ ] might add Chat GPT API, just launched
 - [ ] blog page
 - [ ] add images to projects
-- [ ] add misc/accomplishments section
-- [ ] mobile navbar
+- [ ] changing navbar
