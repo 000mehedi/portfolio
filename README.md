@@ -1,6 +1,6 @@
-![landing page](https://github.com/quinnha/portfolio/blob/main/public/landing.png)
+![landing page](https://github.com/000mehedi/portfolio/blob/main/public/landing.png)
 
-just my little corner of the internet :)
+just posted myself on the internet :)
 
 inspired by [tiffany](https://tiffanywang.me/)
 
@@ -8,8 +8,7 @@ inspired by [tiffany](https://tiffanywang.me/)
 
 - [x] dark mode
 - [x] animate theme toggle button
-- [x] quinn ai chatbot w/ Chat GPT API
-- [x] blog page, start writing
+- [ ] might add Chat GPT API, just launched
+- [ ] blog page
 - [ ] add images to projects
-- [ ] add misc/accomplishments section
-- [ ] mobile navbar
+- [ ] changing navbar
