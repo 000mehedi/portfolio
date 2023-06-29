@@ -18,10 +18,23 @@ function Log() {
       <hr class="dashed"></hr>
     
       <p />
+      
       <p>
         <b>September 2023</b>
         <br />- will watch Coldplay LIVE
       </p>
+      <p>
+        <b>June 2023</b>
+        <br />- went Montreal, amazing place 
+      </p>
+
+      
+      <p>
+        <b>May 2023</b>
+        <br />- visited Jasper⛰️
+      </p>
+
+
       <p>
         <b>March 2023</b>
         <br />- created this website!
