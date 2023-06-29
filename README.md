@@ -1,4 +1,4 @@
-(https://github.com/000mehedi/portfolio/blob/main/public/landing.png)
+![landing page](https://github.com/000mehedi/portfolio/blob/main/public/landing.png)
 
 just posted myself on the internet :)
 
