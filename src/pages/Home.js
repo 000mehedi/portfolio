@@ -9,12 +9,12 @@ const hobbies = [
   "obviously that's bangla rock",
   "pretending to be busy",
   "walking through the neighbourhood",
-  "watching 9/11 vids(scary)",
+  "watch documentaries",
   "watching travel vlogs ",
   "lookup marketplace for cars",
   "cooking pasta",
   "thinking about my love ❤️",
-  "going 1950 to have a look of my homies",
+ 
   "crafting a new spotify playlist",
 ];
 
@@ -78,11 +78,7 @@ function Home() {
         </a>
         ,
         <br />
-        {/* or ask{" "}
-        <NavLink to="/mehedi-ai" class="clickable">
-          <u>my ai</u>
-        </NavLink>{" "}
-        a question! */}
+ 
       </p>
     </div>
   );

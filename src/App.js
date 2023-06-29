@@ -4,8 +4,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Resume from "./pages/Resume";
-import QuinnAI from "./pages/QuinnAI";
-import AboutQuinnAI from "./pages/About-QuinnAI";
+
 import Log from "./pages/Log";
 import "./index.css";
 import NavBar from "./components/navbar";
@@ -37,7 +36,7 @@ function AppRoutes() {
               <Route path="about" element={<About />} />
               <Route path="projects" element={<Projects />} />
               <Route path="resume" element={<Resume />} />
-              <Route path="quinn-ai" element={<QuinnAI />} />
+  
             </Routes>
 
             <Footer />
@@ -61,7 +60,7 @@ function BlogRoutes() {
         <div class="flex-container" id="blog">
           <Routes>
             <Route path="/" element={<Log />} />
-            <Route path="quinn-ai" element={<AboutQuinnAI />} />
+
           </Routes>
           <Footer />
         </div>

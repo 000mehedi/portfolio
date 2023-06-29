@@ -16,15 +16,7 @@ function Projects() {
         <nobr></nobr>
       </p>
       <hr class="dashed" />
-      {/* <p>
-        <NavLink to="/quinn-ai" class="clickable">
-          <u>
-            <b>quinn ai</b>
-          </u>
-        </NavLink>{" "}
-        <br />
-        talk to an ai version of me (try it out)!
-      </p> */}
+   
       <p>
         <NavLink to="/" class="clickable">
           <u>
