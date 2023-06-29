@@ -19,6 +19,10 @@ function Log() {
     
       <p />
       <p>
+        <b>September 2023</b>
+        <br />- will watch Coldplay LIVE
+      </p>
+      <p>
         <b>March 2023</b>
         <br />- created this website!
       </p>
