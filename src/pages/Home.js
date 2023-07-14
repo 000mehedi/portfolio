@@ -56,6 +56,7 @@ function Home() {
 
   return (
     <div>
+      <iframe src="https://giphy.com/embed/Q5WLQFR9j2qmZ19fI7" width="300" height="160" frameBorder="0" allowFullScreen></iframe><p></p>
       <h2>i'm mehedi!</h2>
       <p>
         welcome to my little{" "}
@@ -76,7 +77,7 @@ function Home() {
         <a href="mailto:mdabdullah.patwary@ucalgary.ca" class="clickable">
           mdabdullah.patwary@ucalgary.ca
         </a>
-        ,
+        
         <br />
  
       </p>

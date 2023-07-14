@@ -16,7 +16,7 @@ function About() {
 
       <p>
         hey hey hey! i'm someone who's a bit all over the place. i love all
-        things tech, muesums, roaming downtowns, trying out different cuisines, and so much more.
+        things tech, sushi places, roaming downtowns, trying out different cuisines, and so much more.
         sometimes i feel like a sponge, going around and learning as much as i
         can from the amazing people around me 🧽 .
         <br />
