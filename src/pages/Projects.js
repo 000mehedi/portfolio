@@ -39,7 +39,7 @@ function Projects() {
       </p>
       <p>
         <a
-          href="https://dapper-bienenstitch-56e584.netlify.app/"
+          href="https://whatcaniwear.netlify.app/"
           class="clickable"
           target="_blank"
         >
