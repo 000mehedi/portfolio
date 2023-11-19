@@ -13,7 +13,7 @@ function Resume() {
       <hr class="dashed" />
 
       <iframe
-        src="https://drive.google.com/file/d/1pmOIJJRWqghjE0JvPvKfcuBi4JWJSyiK/view?usp=sharing"
+        src="https://drive.google.com/file/d/1pmOIJJRWqghjE0JvPvKfcuBi4JWJSyiK/view"
         width="640"
         height="825"
         allow="autoplay"
