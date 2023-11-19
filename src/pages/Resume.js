@@ -13,15 +13,15 @@ function Resume() {
       <hr class="dashed" />
 
       <iframe
-        src="https://drive.google.com/file/d/1pmOIJJRWqghjE0JvPvKfcuBi4JWJSyiK/view"
+        src="https://drive.google.com/file/d/1pmOIJJRWqghjE0JvPvKfcuBi4JWJSyiK/preview"
         width="640"
         height="825"
         allow="autoplay"
       ></iframe>
 
       <a
-        href="/Resume_all.pdf"
-        download="Resume_all.pdf"
+        href="/Resume_Md_Abdullah_Mehedi.pdf"
+        download="Resume_Md_Abdullah_Mehedi.pdf"
         class="clickable"
       >
         download
