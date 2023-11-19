@@ -20,8 +20,8 @@ function Resume() {
       ></iframe>
 
       <a
-        href="/Resume_Md_Abdullah_Mehedi.pdf"
-        download="Resume_Md_Abdullah_Mehedi.pdf"
+        href="/Resume_all.pdf"
+        download="Resume_all.pdf"
         class="clickable"
       >
         download
