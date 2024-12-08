@@ -2,7 +2,7 @@
 
 just posted myself on the internet :)
 
-inspired by [tiffany](https://tiffanywang.me/)
+
 
 ### to-do
 
